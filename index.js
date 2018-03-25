@@ -11,7 +11,7 @@ function theBeatlesPlay(musicians, instruments) {
   return arr;
 }
 
-/////////WIP iLoveTheBeatles////////////////
+/////////solved iLoveTheBeatles////////////////
 
 
 function iLoveTheBeatles (num) {
