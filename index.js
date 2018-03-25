@@ -1,5 +1,5 @@
-const musicians = ["John", "Paul", "George", "Ringo"];
-const instruments = ["guitar", "guitar", "bass", "drums"];
+// const musicians = ["John", "Paul", "George", "Ringo"];
+// const instruments = ["guitar", "guitar", "bass", "drums"];
 
 function theBeatlesPlay(musicians, instruments) {
   const arr = [];
